@@ -1,0 +1,6 @@
+framework module Pods_CMoeDetailCategoryModule_Tests {
+  umbrella header "Pods-CMoeDetailCategoryModule_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
